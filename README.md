@@ -1,6 +1,4 @@
 # gridcv_lightgbm
-<<<<<<< HEAD
-Use LightGBM to build machine learning model, and then use grid search for optimization
 =======
 
 Use LightGBM to build machine learning model, and then use grid search for optimization
@@ -112,6 +110,3 @@ bagging_fraction+bagging_freq参数必须同时设置，bagging_fraction相当�
 
 好了，以上就是网络搜素调优的一般步骤，本文仅是对LightGBM来说一些重要的参数进行调优，也可以对其他的参数进行调优，具体看自己的需求。
 
-
-
->>>>>>> ce8fde9 (first commit)
